@@ -47,17 +47,18 @@ LICENSE → Project license (MIT)
 --------------------------------------------------
 
 ▶️ How to Run the Project
+1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/AI-Learning-Navigator.git
+cd AI-Learning-Navigator
 
-1. Install required libraries:
+2. Install required dependencies
+pip install -r requirements.txt
 
-   pip install pandas matplotlib seaborn scikit-learn openpyxl
+4. Make sure dataset is in the project folder
+student_learning_dataset.xlsx
 
-2. Place the dataset file in the same folder as the Python script.
-
-3. Run the script:
-
-   python eda.py
-
+6. Run the dashboard (recommended)
+streamlit run dashboard.py
 --------------------------------------------------
 
 📊 Output
