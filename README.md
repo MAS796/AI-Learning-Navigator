@@ -24,12 +24,14 @@ It analyzes student data such as study time, attendance, and test preparation to
 --------------------------------------------------
 
 ⚙️ Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn (KMeans Clustering)
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn (KMeans, StandardScaler)
+Streamlit
+OpenPyXL
 
 --------------------------------------------------
 
