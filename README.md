@@ -36,11 +36,13 @@ OpenPyXL
 --------------------------------------------------
 
 📂 Files Included
-
-- learning_navigator.py  → Main Python script
-- student_learning_dataset.xlsx → Dataset used
-- learning_navigator.pdf → Project report
-- readme.txt → Execution instructions
+dashboard.py → Streamlit dashboard for visualization and insights
+eda.py → Exploratory Data Analysis and initial insights
+learning_navigator.py → Core logic for data processing and analysis
+student_learning_dataset.xlsx → Dataset used for the project
+README.md → Project documentation
+requirements.txt → List of dependencies
+LICENSE → Project license (MIT)
 
 --------------------------------------------------
 
